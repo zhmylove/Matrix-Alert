@@ -1,0 +1,6 @@
+our $M_HOST = "matrix.org";
+our $M_USER = "user";
+our $M_PASS = "password";
+our $M_ROOM = "!room.matrix.org";
+
+13;
